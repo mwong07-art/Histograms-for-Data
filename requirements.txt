@@ -1,5 +1,5 @@
-numpy 
+numpy
 pandas
 streamlit
-matplotlib.pyplot
-scipy.stats 
+matplotlib
+scipy
